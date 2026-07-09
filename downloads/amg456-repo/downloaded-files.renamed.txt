@@ -1,0 +1,16 @@
+-rw-r--r--@ 1 zest  staff    17M Jul  9 18:25 18.1.1_ZORRO佐罗(无根)_18.1.1_app.zorrom4854.rootless.deb
+-rw-r--r--@ 1 zest  staff    14M Jul  9 18:25 18.1.1_ZORRO佐罗(有根)_18.1.1_app.zorrom4854.rootful.deb
+-rw-r--r--@ 1 zest  staff    21M Jul  9 18:25 2.5.0_Razer雷蛇(无根)_2.5.0_app.Razer854.rootless.deb
+-rw-r--r--@ 1 zest  staff    21M Jul  9 18:25 2.5.0_Razer雷蛇(有根)_2.5.0_app.Razer854.rootful.deb
+-rw-r--r--@ 1 zest  staff    21M Jul  9 18:25 2.5.0_Razer雷蛇(隐根)_2.5.0_app.Razer854.roothide.deb
+-rw-r--r--@ 1 zest  staff    14M Jul  9 18:25 AWZ爱伪装_修复(有根)_15.0.1_app.awz4854.rootful.deb
+-rw-r--r--@ 1 zest  staff   9.7M Jul  9 18:25 Filza_File_文件管理器【正版】_4.0.1-3_apt.cydiakk.filza.deb
+-rw-r--r--@ 1 zest  staff   6.1M Jul  9 18:25 VBox_5.5「RootHide」_5.5_com.amg456.VBox2.deb
+-rw-r--r--@ 1 zest  staff   6.1M Jul  9 18:25 VBox_5.5「无根」_5.5_com.amg456.VBox1.deb
+-rw-r--r--@ 1 zest  staff    11M Jul  9 18:25 VBox_5.5「有根」_5.5_com.amg456.VBox.deb
+-rw-r--r--@ 1 zest  staff   6.0M Jul  9 18:25 纯净版18.1.1_AMG奔驰正版[无根]_18.1.1_com.amg456.rootless.deb
+-rw-r--r--@ 1 zest  staff   6.6M Jul  9 18:25 纯净版18.1.1_AMG奔驰正版[有根]_18.1.1_com.amg456.rootful.deb
+-rw-r--r--@ 1 zest  staff   6.0M Jul  9 18:25 纯净版18.1.1_AMG奔驰正版[隐根]_18.1.1_com.amg456.roothide.deb
+-rw-r--r--@ 1 zest  staff   583K Jul  9 18:25 连个锤子-联网修复-Roohide_1.2.2_com.ssoes.Renet.Roohide.deb
+-rw-r--r--@ 1 zest  staff   295K Jul  9 18:25 连个锤子-联网修复-Rootless_1.2.2_com.ssoes.Renet.rootless.deb
+-rw-r--r--@ 1 zest  staff   240K Jul  9 18:25 连个锤子-越狱联网一键修复_1.2.1_com.ssoes.renet.deb

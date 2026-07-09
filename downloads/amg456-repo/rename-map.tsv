@@ -1,0 +1,17 @@
+old	new	package	name	version	source_filename
+33.deb	AWZ爱伪装_修复(有根)_15.0.1_app.awz4854.rootful.deb	app.awz4854.rootful	AWZ爱伪装_修复(有根)	15.0.1	./debs/33.deb
+32.deb	纯净版18.1.1_AMG奔驰正版[无根]_18.1.1_com.amg456.rootless.deb	com.amg456.rootless	纯净版18.1.1_AMG奔驰正版[无根]	18.1.1	./debs/32.deb
+31.deb	纯净版18.1.1_AMG奔驰正版[有根]_18.1.1_com.amg456.rootful.deb	com.amg456.rootful	纯净版18.1.1_AMG奔驰正版[有根]	18.1.1	./debs/31.deb
+30.deb	纯净版18.1.1_AMG奔驰正版[隐根]_18.1.1_com.amg456.roothide.deb	com.amg456.roothide	纯净版18.1.1_AMG奔驰正版[隐根]	18.1.1	./debs/30.deb
+21.deb	Filza_File_文件管理器【正版】_4.0.1-3_apt.cydiakk.filza.deb	apt.cydiakk.filza	Filza File 文件管理器【正版】	4.0.1-3	./debs/21.deb
+20.deb	连个锤子-越狱联网一键修复_1.2.1_com.ssoes.renet.deb	com.ssoes.renet	连个锤子-越狱联网一键修复	1.2.1	./debs/20.deb
+19.deb	连个锤子-联网修复-Rootless_1.2.2_com.ssoes.Renet.rootless.deb	com.ssoes.Renet.rootless	连个锤子-联网修复-Rootless	1.2.2	./debs/19.deb
+18.deb	连个锤子-联网修复-Roohide_1.2.2_com.ssoes.Renet.Roohide.deb	com.ssoes.Renet.Roohide	连个锤子-联网修复-Roohide	1.2.2	./debs/18.deb
+14.deb	18.1.1_ZORRO佐罗(无根)_18.1.1_app.zorrom4854.rootless.deb	app.zorrom4854.rootless	18.1.1_ZORRO佐罗(无根)	18.1.1	./debs/14.deb
+13.deb	18.1.1_ZORRO佐罗(有根)_18.1.1_app.zorrom4854.rootful.deb	app.zorrom4854.rootful	18.1.1_ZORRO佐罗(有根)	18.1.1	./debs/13.deb
+12.deb	2.5.0_Razer雷蛇(无根)_2.5.0_app.Razer854.rootless.deb	app.Razer854.rootless	2.5.0_Razer雷蛇(无根)	2.5.0	./debs/12.deb
+11.deb	2.5.0_Razer雷蛇(有根)_2.5.0_app.Razer854.rootful.deb	app.Razer854.rootful	2.5.0_Razer雷蛇(有根)	2.5.0	./debs/11.deb
+10.deb	2.5.0_Razer雷蛇(隐根)_2.5.0_app.Razer854.roothide.deb	app.Razer854.roothide	2.5.0_Razer雷蛇(隐根)	2.5.0	./debs/10.deb
+8.deb	VBox_5.5「RootHide」_5.5_com.amg456.VBox2.deb	com.amg456.VBox2	VBox_5.5「RootHide」	5.5	./debs/8.deb
+7.deb	VBox_5.5「有根」_5.5_com.amg456.VBox.deb	com.amg456.VBox	VBox_5.5「有根」	5.5	./debs/7.deb
+6.deb	VBox_5.5「无根」_5.5_com.amg456.VBox1.deb	com.amg456.VBox1	VBox_5.5「无根」	5.5	./debs/6.deb

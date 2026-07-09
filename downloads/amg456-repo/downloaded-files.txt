@@ -1,0 +1,16 @@
+-rw-r--r--@ 1 zest  staff    21M Jul  9 18:25 10.deb
+-rw-r--r--@ 1 zest  staff    21M Jul  9 18:25 11.deb
+-rw-r--r--@ 1 zest  staff    21M Jul  9 18:25 12.deb
+-rw-r--r--@ 1 zest  staff    14M Jul  9 18:25 13.deb
+-rw-r--r--@ 1 zest  staff    17M Jul  9 18:25 14.deb
+-rw-r--r--@ 1 zest  staff   583K Jul  9 18:25 18.deb
+-rw-r--r--@ 1 zest  staff   295K Jul  9 18:25 19.deb
+-rw-r--r--@ 1 zest  staff   240K Jul  9 18:25 20.deb
+-rw-r--r--@ 1 zest  staff   9.7M Jul  9 18:25 21.deb
+-rw-r--r--@ 1 zest  staff   6.0M Jul  9 18:25 30.deb
+-rw-r--r--@ 1 zest  staff   6.6M Jul  9 18:25 31.deb
+-rw-r--r--@ 1 zest  staff   6.0M Jul  9 18:25 32.deb
+-rw-r--r--@ 1 zest  staff    14M Jul  9 18:25 33.deb
+-rw-r--r--@ 1 zest  staff   6.1M Jul  9 18:25 6.deb
+-rw-r--r--@ 1 zest  staff    11M Jul  9 18:25 7.deb
+-rw-r--r--@ 1 zest  staff   6.1M Jul  9 18:25 8.deb

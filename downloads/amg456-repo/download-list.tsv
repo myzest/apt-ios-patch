@@ -1,0 +1,17 @@
+idx	package	name	version	filename	url	size	sha256
+1	app.awz4854.rootful	AWZ爱伪装_修复(有根)	15.0.1	./debs/33.deb	https://repo.amg456.com/debs/33.deb	14958520	ef6fdc13cddb733b48688b76e7ac0dff2e4ccc8db70e429856d23cf11b6bad0b
+2	com.amg456.rootless	纯净版18.1.1_AMG奔驰正版[无根]	18.1.1	./debs/32.deb	https://repo.amg456.com/debs/32.deb	6275934	5077ba8d6524835d65de7f7363d5167a7c128dc6d49aeacabe8829cb7dc05386
+3	com.amg456.rootful	纯净版18.1.1_AMG奔驰正版[有根]	18.1.1	./debs/31.deb	https://repo.amg456.com/debs/31.deb	6883780	270fbcc5d2f91510077d29e1c1746c6c5fd435cce9aad52f1d64b654bc2bf009
+4	com.amg456.roothide	纯净版18.1.1_AMG奔驰正版[隐根]	18.1.1	./debs/30.deb	https://repo.amg456.com/debs/30.deb	6249090	583f9c32803770c74d20662d954c23afdeda692be866ced1bc6bcaf7072f50b6
+5	apt.cydiakk.filza	Filza File 文件管理器【正版】	4.0.1-3	./debs/21.deb	https://repo.amg456.com/debs/21.deb	10215856	35b0e084370399117f45fea33beb1181ad0bf61de230ff05853362d56d900a16
+6	com.ssoes.renet	连个锤子-越狱联网一键修复	1.2.1	./debs/20.deb	https://repo.amg456.com/debs/20.deb	245574	652c5cfd49138497de80b763ffb038d6bd90fcb19f972747f36583db15988d98
+7	com.ssoes.Renet.rootless	连个锤子-联网修复-Rootless	1.2.2	./debs/19.deb	https://repo.amg456.com/debs/19.deb	301722	70d707db59ae1bbfa1c7f83ecfcd9af830453d457925a3aacebf00244a2d51f2
+8	com.ssoes.Renet.Roohide	连个锤子-联网修复-Roohide	1.2.2	./debs/18.deb	https://repo.amg456.com/debs/18.deb	596514	4c8433b790e60571bf16d3cfcb65d1310b56e8a55e0329d6ea95bc0f1b8bc063
+9	app.zorrom4854.rootless	18.1.1_ZORRO佐罗(无根)	18.1.1	./debs/14.deb	https://repo.amg456.com/debs/14.deb	17433434	eefa19d14bff6f3f1acfbc5c6598bcebcba013098df3beadc9dba10541109ef4
+10	app.zorrom4854.rootful	18.1.1_ZORRO佐罗(有根)	18.1.1	./debs/13.deb	https://repo.amg456.com/debs/13.deb	14912044	aeec64eae72d3e5d09e6f96c2e0bc4f45df19d177e585c31a448a51a885bda36
+11	app.Razer854.rootless	2.5.0_Razer雷蛇(无根)	2.5.0	./debs/12.deb	https://repo.amg456.com/debs/12.deb	21521984	e1da2c3995ab653609671d0dd75adf9f65669378c089a0386070635bd4c16d1d
+12	app.Razer854.rootful	2.5.0_Razer雷蛇(有根)	2.5.0	./debs/11.deb	https://repo.amg456.com/debs/11.deb	21957448	83a035fe230fcf13dfecae305d1b9a801e5856ba9883f3a96f87293401126a38
+13	app.Razer854.roothide	2.5.0_Razer雷蛇(隐根)	2.5.0	./debs/10.deb	https://repo.amg456.com/debs/10.deb	21960376	068431d5d4af04fdfc33173dcf49ad5745e10d3fcde56fa53e911bc35fe28bf9
+14	com.amg456.VBox2	VBox_5.5「RootHide」	5.5	./debs/8.deb	https://repo.amg456.com/debs/8.deb	6414288	48ff1d150c4bdeadb53a6e61207e01e5dc7ae7262ec8a9b23229b0de197e0e10
+15	com.amg456.VBox	VBox_5.5「有根」	5.5	./debs/7.deb	https://repo.amg456.com/debs/7.deb	11452974	3dac950301510b29dc5116dc6454e9458ff3c7c36c72977932c755357e809256
+16	com.amg456.VBox1	VBox_5.5「无根」	5.5	./debs/6.deb	https://repo.amg456.com/debs/6.deb	6437304	2ab876fc64885dbebbb2fc079a9009c7243144c1457ada0c85ecf5c936a3f290
